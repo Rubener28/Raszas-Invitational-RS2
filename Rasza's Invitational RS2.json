@@ -1,6 +1,6 @@
 {
-	"Name": "RS2 balancing Final",
-	"Version": 1771674437,
+	"Name": "RS2 balancing 1.1",
+	"Version": 1771887935,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -119,6 +119,7 @@
 				"188",
 				"256",
 				"195",
+				"200",
 				"204",
 				"278",
 				"205",
@@ -146,6 +147,10 @@
 				[
 					"36",
 					"78"
+				],
+				[
+					"38",
+					"80"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -478,20 +483,13 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"36",
+				"38",
 				"80",
+				"96",
 				"124",
 				"128"
 			],
-			"SurvivorComboPerkBans": [
-				[
-					"38",
-					"121"
-				],
-				[
-					"38",
-					"71"
-				]
-			],
+			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -934,7 +932,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				196
+				196,
+				197
 			],
 			"ItemWhitelist": [
 				0,
@@ -1912,6 +1911,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"49",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2188,7 +2188,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112"
+				"65"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
