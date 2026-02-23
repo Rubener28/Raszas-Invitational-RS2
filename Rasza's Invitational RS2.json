@@ -1,6 +1,6 @@
 {
 	"Name": "RS2 balancing 1.1",
-	"Version": 1771887935,
+	"Version": 1771889553,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -63,6 +63,7 @@
 				"81",
 				"82",
 				"83",
+				"84",
 				"86",
 				"88",
 				"89",
@@ -140,10 +141,6 @@
 				"242"
 			],
 			"SurvivorComboPerkBans": [
-				[
-					"48",
-					"84"
-				],
 				[
 					"36",
 					"78"
