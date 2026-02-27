@@ -1,6 +1,6 @@
 {
-	"Name": "RS2 balancing 1.1",
-	"Version": 1771889553,
+	"Name": "RS2 balancing 1.2",
+	"Version": 1772190238,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -187,7 +187,13 @@
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210",
+					"220"
+				]
+			]
 		},
 		{
 			"Name": "Tier 2",
@@ -1110,7 +1116,13 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"36",
 				"38",
@@ -2354,10 +2366,14 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"206"
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210",
+					"220"
+				]
 			],
-			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2674,7 +2690,13 @@
 			"KillerIndvPerkBans": [
 				"163"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"50"
 			],
@@ -2800,7 +2822,8 @@
 			"KillerComboPerkBans": [
 				[
 					"160",
-					"210"
+					"210",
+					"220"
 				]
 			],
 			"SurvivorIndvPerkBans": [],
