@@ -1,6 +1,6 @@
 {
-	"Name": "RS2 balancing 1.4",
-	"Version": 1775217251,
+	"Name": "RS2 balancing 1.5",
+	"Version": 1782353802,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -216,7 +216,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"279",
 				"69",
@@ -228,7 +227,8 @@
 				"121",
 				"124",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"KillerIndvPerkBans": [
 				"183"
@@ -450,7 +450,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"183"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"107"
@@ -776,7 +778,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -1175,14 +1177,21 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
-				"36",
+				"246",
 				"38",
 				"58",
 				"63",
 				"80",
-				"124"
+				"96",
+				"124",
+				"36"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"50",
+					"92"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -2727,7 +2736,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"16"
 			],
 			"BalanceTiers": [
 				0,
@@ -3051,6 +3060,57 @@
 			"Name": "The First",
 			"KillerNotes": "",
 			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
